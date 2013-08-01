@@ -1,0 +1,16 @@
+development:
+  adapter: mysql
+  database: calendr
+  username: dev
+  password: password
+  timeout: 5000
+  host: 172.17.222.87
+
+production:
+  adapter: mysql
+  database: calendr
+  username: dev
+  password: password
+  timeout: 5000
+  host: 172.17.222.87
+
